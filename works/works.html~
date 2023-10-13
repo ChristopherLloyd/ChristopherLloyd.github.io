@@ -1,0 +1,338 @@
+<!DOCTYPE html>
+
+<html>
+
+<!-- ------------------------ HEAD ------------------------ -->
+
+
+  <head>
+	<title>Christopher-Lloyd SIMON</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+	<meta content="Christopher-Lloyd SIMON, homepage" name="description">
+	<meta content="Christopher-Lloyd SIMON, homepage, math" name="keywords">
+
+	<link href="../architecture/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Inconsolata:400,700|Source+Serif+Pro:400,700|Nunito+Sans:400,700" rel="stylesheet">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+	<script src="../architecture/bootstrap/js/bootstrap.min.js"></script>	
+	<style>
+      @font-face {
+        /*FONTS*/
+        src: url("https://fonts.googleapis.com/css?family=Inconsolata:400,700|Source+Serif+Pro:400,700|Nunito+Sans:400,700"); 
+      }
+
+      body {
+        /*width: 670px;*/
+        margin: 20px auto;
+        color: #222; /* text color */
+        background-color: #fff; /* outer background */
+        /*FONTS*/
+        font-family: 'Nunito Sans', sans-serif;;
+      }
+
+      .hidden
+      {position:absolute;
+      left:-10000px;  /*moves content off the visible screen*/
+      top:auto; /*retain vertical position;
+                required by some browsers
+                for left positioning to work*/
+      width:1px;
+      height:1px;
+      overflow:hidden; /*visually hide what doesn't fit 1x1 px*/
+      }
+
+      ul {
+        padding-left: 15px;
+      }
+      li {
+        margin: 10px 0;
+      }
+
+    </style>
+
+  </head>
+  
+<!-- ------------------------ BODY ------------------------ -->
+
+<body>
+    <div class ="container">
+   
+      <nav class="navbar navbar-expand-lg bg-body-tertiary">
+
+  <div class="container-fluid">
+    <a class="navbar-brand" href="../index.html">Christopher-Lloyd SIMON</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+        <li class="nav-item">
+          <a class="nav-link" href="../presentation/presentation.html">Presentation</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link active" href="#">Works</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="../students/students.html">Students</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="../unclassified/unclassified.html">Unclassified</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<div class="accordion" id="accordionExample">
+
+
+<div class="accordion-item">
+    <h2 class="accordion-header">
+      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#ongoing" aria-expanded="true" aria-controls="ongoing">
+        Ongoing projects
+      </button>
+    </h2>
+    <div id="ongoing" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+      <div class="accordion-body">
+        <strong> Some of my works in progress are listed below, and the most mature come along with some preprints.</strong> 
+        I welcome (m)any discussions about those topics, and you are welcome to contact me to exchange about them.
+      </div>
+
+         <ul>
+            <li> <i> Chord diagrams of loops in surfaces 1 : split decompositions of their interlace graphs </i>
+            </li>
+            
+            <li> <i> Chord diagrams of loops in surfaces 2 : smoothing posets, hopf algebra, and polynomial invariants </i>
+            </li>
+            
+            <li> <i> Chord diagrams of loops in surfaces 3 : isotopy classes of hyperbolic geodesics </i>
+            </li>
+            
+            <li> <i> Linking numbers of modular knots and scalar products of modular forms </i>
+            </li>
+            
+            <li> <i> Representations of the adelic modular group : equidistribution of structure coefficients and periods of automorphic forms </i>
+            </li> 
+            
+            <li> <i> Gauss linking forms for hyperbolic geodesics </i>
+            </li>
+            
+            <li> <i> Mapping class groups of mapping tori </i>
+            </li>
+            
+            <li> <i> Surgery distances between 3-manifolds </i>
+            </li>
+         </ul>
+     </div>
+  </div>
+
+
+  <div class="accordion-item">
+    <h2 class="accordion-header">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#publications" aria-expanded="false" aria-controls="publications">
+        (Pre)Publications
+      </button>
+    </h2>
+    <div id="publications" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+      <div class="accordion-body">
+        <strong>List of refereed works (mostly articles accepted in a peer-review journal). </strong>
+        They are grouped by themes and choronological order.
+        The corresponding talks are collected in the following rubrick.
+        I welcome (m)any discussions about those topics, and you are welcome to contact me to exchange about them.
+      </div>
+    
+          <ul>
+            <li> <i> On the topology of a real analytic curve in the neighborhood of a singular point </i> <br>
+               Work in collaboration with <a href=https://perso.ens-lyon.fr/ghys/accueil/> Etienne Ghys</a>.<br>
+               Journal <a href=https://smf.emath.fr/publications/sur-la-topologie-des-courbes-analytiques-reelles-au-voisinage-des-points-singuliers> link</a>.
+               HAL <a href=https://hal.science/hal-03273688> link </a>.
+               Preprint <a href="pre-publications/2017-04_TopoSingulaReAnalytiCurve_ghysimon.pdf"> version</a>.
+            </li>
+            
+            <li> <i> Topologie et dénombrement des courbes algébriques réelles singulières </i> <br>
+               Journal <a href=https://afst.centre-mersenne.org/articles/10.5802/afst.1698/> link</a>.
+               HAL <a href="HALINKHERE"> link</a>.
+               ArXiv <a href=https://arxiv.org/abs/2106.15450> link</a>.
+            </li>
+            
+            <li> <i> Automorphisms of character varieties </i> <br>
+               Work in collaboration with <a href=https://webusers.imj-prg.fr/~julien.marche/travaux_publis.html> Julien Marché</a>.<br>
+               Journal <a href=https://ahl.centre-mersenne.org/item/10.5802/ahl.82.pdf> link.</a>
+               Numdam <a href=http://www.numdam.org/articles/10.5802/ahl.82/> link.</a>
+               HAL <a href="HALINKHERE"> link</a>.
+               ArXiv <a href=https://arxiv.org/abs/1909.12539> link</a>.
+            </li>
+            
+            <li> <i> Valuations on the character variety: Newton polytopes and Residual Poisson Bracket </i> <br>
+               Work in collaboration with <a href=https://webusers.imj-prg.fr/~julien.marche/travaux_publis.html> Julien Marché</a>.<br>
+               Journal : <a href=https://msp.org/soon/coming.php?jpath=gt> link</a> to appear.
+               Numdam : <a href=http://www.numdam.org/articles/10.5802/ahl.82/> link</a>.
+               HAL <a href="HALINKHERE"> link</a>.
+               ArXiv : <a href=https://arxiv.org/abs/2104.04340> link</a>.
+            </li>
+            
+            <li> <i> Arithmetic and topology of modular knots </i> <br>
+               PhD Thesis, under the direction 
+               of <a href=https://perso.ens-lyon.fr/ghys/accueil/> Etienne Ghys</a>
+               and <a href=http://math.univ-lille1.fr/~popescu/> Patrick Popescu-Pampu</a>.<br>
+               A compressed <a href="pre-publications/2022-07-14_AriTopoModuKnots_compressed"> manuscript </a> and the
+               HAL <a href=https://theses.hal.science/tel-03755147v1> link</a>. <br>
+               The introduction gives an idea of the motivations, and each chapter is preceded by a short introduction. <br>
+               The "Appetizer" section to the introduction served as basis 
+               for my <a href="talkslides/2022-06-24_SouThese_AriTopoNoeMod.pdf"> oral defense</a>. <br>
+               Warning : several of the results and conjectures have been (im)proved in the following papers.
+            </li>
+            
+            <li> <i> Conjugacy classes in PSL(2;Z) </i> <br>
+               This article synthetises and extends the results in chapter 1 of my thesis. <br>
+               Journal : <a href=> link</a> to appear.
+               ArXiv <a href=https://arxiv.org/abs/2210.02481> link</a>. 
+            </li>
+            
+            <li> <i> Linking numbers of modular knots </i> <br>
+               This article synthetises and extends the results in chapter 4 and 5. <br>
+               Submitted for publication.
+               ArXiv <a href=https://arxiv.org/abs/2211.05957> link</a>. 
+            </li>
+         </ul>
+   </div>
+  </div>
+
+  <div class="accordion-item">
+    <h2 class="accordion-header">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#jupytexpython" aria-expanded="false" aria-controls="jupytexpython">
+        InformatExperiments
+      </button>
+    </h2>
+    <div id="jupytexpython" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+      <div class="accordion-body">
+        <strong>Informatic notebooks serving as experimental basis for conjecturing or checking results.</strong>
+      </div>
+      
+      <ul>
+         <li> <i> ChorDiaGraPoloops </i>
+         </li>
+         <li> <i> Arithmetic and topology of modular knots </i>
+         </li>
+         <li> <i> Loops in the punctured torus and  </i>
+         </li>
+      </ul>
+         
+      
+    </div>
+  </div>
+  
+  
+  <div class="accordion-item">
+    <h2 class="accordion-header">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#talks" aria-expanded="false" aria-controls="talks">
+        Talk slides and recordings
+      </button>
+    </h2>
+    <div id="talks" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+      <div class="accordion-body">
+        <strong>Some of the slides i used for beamer talks are collected below, and maybe some recordings.</strong>
+        They are grouped by topics, variations on a same theme, and chronological order. 
+        One must often adapt presentations for different audiences and durations.
+      </div>
+      
+      <ul>
+           <li> <i> Linking numbers of modular knots. </i>
+           The <a href="talkslides/2022-06-24_SouThese_AriTopoNoeMod.pdf">slides in French</a> for my PhD defense.
+           Similar <a href="talkslides/2022-12-22_AriTopoNoeMod_UJF"> slides in French</a>. 
+           Similar <a href="talkslides/2022-12-22_AriTopoNoeMod_UJF"> slides in English</a>. 
+           </li>
+
+         </ul>
+      
+    </div>
+  </div>
+  
+    <div class="accordion-item">
+    <h2 class="accordion-header">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#expository" aria-expanded="false" aria-controls="expository">
+        Expository Notes
+      </button>
+    </h2>
+    <div id="expository" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+      <div class="accordion-body">
+        <strong>Various expository notes: lectures notes, .</strong>
+        They are grouped by chronological order.
+        Some are unfinished (like many things including this website), but they may still be useful.
+      </div>
+      
+      <ul>
+           <li> <i> FOL </i>
+                 With <a href=https://dna.hamilton.ie/tsterin/index.html> Tristan Sterin<a/>.
+            </li>
+            
+            <li> <i> Alain Connes Goutelas. </i>
+            </li>
+            
+            <li> <i> Entropy Soficity. Matthieu. </i>
+            </li>
+            
+            <li> <i> Matrices. </i>
+            </li>
+            
+            <li> <i> Arithmetics. </i>
+            </li>
+            
+         </ul>
+      
+    </div>
+  </div>
+
+    <div class="accordion-item">
+    <h2 class="accordion-header">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#outreach" aria-expanded="false" aria-controls="outreach">
+        Outreach
+      </button>
+    </h2>
+    <div id="outreach" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+      <div class="accordion-body">
+        <strong>Various outreach documents.</strong>
+        They are grouped by chronological order.
+      </div>
+      
+      <ul>
+           <li> <i> Images des mathémaiques </i>.
+            </li>
+            
+            <li> <b> Interview </b> by Etienne Ghys for his podcast series <i>Petites histoires de sciences</i>.
+            Podcast <a href=https://www.canalacademies.com/emissions/petites-histoires-de-science/mathematiciens-daujourdhui/christopher-lloyd-simon-un-jeune-docteur-de-26-ans-amoureux-des-maths> link </a>.
+            </li>
+            
+            
+         </ul>
+      
+    </div>
+  </div>
+  
+</div>
+
+<!-- HERE -->
+      
+      <div class="row">
+        <div class="col-md-10">
+           HAL <a href="#"> page</a> .
+           ArXiv <a href="#"> page</a>.
+           ORCID <a href="#"> page</a> and ID : .
+           MatSciNet <a href="#"> page</a> and ID : .
+           My <a href="https://www.researchgate.net/scientific-contributions/Christopher-Lloyd-Simon-2185212425">Research Gate page<a/>
+  
+   
+        </div>
+   
+ 
+    <div class="container">
+      <div class="row">
+      </div> <!-- /row -->
+      <hr>
+    </div> <!-- /container -->
+
+  </body>
+
+</html>
+
