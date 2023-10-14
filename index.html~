@@ -57,11 +57,11 @@
 
 <body>
     <div class ="container">
-   
+   <h1>Christopher-Lloyd SIMON</h1>
       <nav class="navbar navbar-expand-lg bg-body-tertiary">
 
   <div class="container-fluid">
-    <a class="navbar-brand" aria-current="page" href="#">Christopher-Lloyd SIMON</a>
+    <a class="navbar-brand" aria-current="page" href="#">Home</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
@@ -107,18 +107,13 @@
         </div> 
         <div class="col-md-4">
           <figure style="float: left; margin: 0 20px 20px 0;">
-            <img src="presentation/2022-06-24-jury-Christopher_croped.JPG" alt="after-thesis-defense" style="width:200%">
+            <img src="presentation/2022-06-24-jury-Christopher_croped.JPG" alt="after-thesis-defense" style="width:150%">
             <figcaption> CAPTION </figcaption>
           </figure>
         </div> 
       <div class="row">
     </div>
 
-    <div class="container">
-      <div class="row">
-      </div> <!-- /row -->
-      <hr>
-    </div> <!-- /container -->
 
   </body>
 

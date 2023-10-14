@@ -56,11 +56,11 @@
 
 <body>
     <div class ="container">
-   <h1>Christopher-Lloyd SIMON</h1>
+   
       <nav class="navbar navbar-expand-lg bg-body-tertiary">
 
   <div class="container-fluid">
-    <a class="navbar-brand" href="../index.html">Home</a>
+    <a class="navbar-brand" href="../index.html">Christopher-Lloyd SIMON</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
@@ -73,10 +73,10 @@
           <a class="nav-link active" href="../works/works.html">Works</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="\#">Students</a>
+          <a class="nav-link" href="../students/students.html">Students</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="../unclassified/unclassified.html">Unclassified</a>
+          <a class="nav-link" href="\#">Unclassified</a>
         </li>
       </ul>
     </div>
