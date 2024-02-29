@@ -176,7 +176,7 @@
             
             <li><b>Conjugacy classes in PSL(2;K)</b><br>
                This article synthetises and extends the results in chapter 1 of my thesis. <br>
-               Journal: <a href="https://mrr.centre-mersenne.org/">Mathematics Research Reports, to appear</a>.
+               Journal: <a href="https://mrr.centre-mersenne.org/articles/10.5802/mrr.16/">Mathematics Research Reports, Volume 4 (2023), pp. 23-45</a>.
                <!-- HAL <a href="https://hal.science/hal-04188937">link</a>. -->
                Preprint: <a href="https://arxiv.org/abs/2210.02481">arXiv</a>. 
             </li>
@@ -185,6 +185,13 @@
                This article synthetises and extends the results in chapter 4 and 5 of my thesis. <br>
                Submitted for publication.
                Preprint: <a href="https://arxiv.org/abs/2211.05957">arXiv</a>. 
+            </li>
+            
+            <li><b>Hexponential dynamics and transcendence </b>
+               (with <a href="https://">Scott Schmieding</a>)<br>
+               <!-- This article builds on the work in chapter 3 of my thesis, but goes much further. <br> -->
+               <!-- Submitted for publication. -->
+               Preprint: <a href="https://arxiv.org/abs/">arXiv</a>.
             </li>
             
             </ul>
@@ -250,6 +257,10 @@
            Similar <a href="talkslides/2022-11-16_ATMK_Brown.pdf">slides in English</a>,
            for the <a href="https://math-cal.cloud.science.psu.edu/events/56541">Department of Mathematics Colloquium, PSU</a>
            and the <a href="https://www.math.brown.edu/reschwar/seminar.html">Geometry/Topology Seminar, Brown University</a>. <br>
+           Other <a href="talkslides/2023-12-07_IAS_80_Katz_modular_group_quasicharacters_from_linking.pdf">slides in English</a>, 
+           about <i> Quasicharacters of the modular group from linking numbers of modular knots</i> for a short talk <br> 
+           in the <a href="https://https://sites.google.com/princeton.edu/katz80">Conference on Monodromy and its Applications, Princeton</a>
+           in honor of Nicholas Katz. <br>
            </li>
            
          </ul>
@@ -269,21 +280,26 @@
         I welcome (m)any discussions about those topics, and you are welcome to contact me to exchange about them.
 
          <ul>
-            <li><b>Chord diagrams of loops in surfaces 1: operad factorisations and generating grammars</b><br>
-                 <b>Chord diagrams of loops in surfaces 2: Hopf algebra and polynomial invariants</b><br>
-                 <b>Chord diagrams of loops in surfaces 3: homotopy groupoids and cluster algebras</b>
+            <li> <b>Chord diagrams of loops in surfaces</b><br>
+                 Part 1: operad factorisations and generating grammars (submitted) <br>
+                 Part 2: Hopf algebra and polynomial invariants<br>
+                 Part 3: homotopy groupoids and cluster algebras
             </li>
             
-            <li><b>Modular inception: dynamics and transcendance of the Hexponential map</b>
+            <li> <b> Pin the loop and other topologames </b><br>
+                 A new algorithm for computing intersection of loops in a punctured sphere <br>
+                 The group of m-trivial loops in F(n) <br>
+                 Intersection functions on free groups and the lower central series
             </li>
             
-            <li><b>Linking numbers of modular knots and scalar products of modular forms</b>
+            <li> <b> Continued fractions, and symbolic dynamics </b> <br>
+                 Dynamics and transcendance of the Hexponential map <br>
+                 Rational equivalence of rotation numbers for subshifts
             </li>
             
-            <li><b>Representations of the adelic modular group: equidistribution of structure coefficients and periods of automorphic forms</b>
-            </li>
-            
-            <li><b>Gauss linking forms for hyperbolic geodesics</b>
+            <li><b> Linking numbers of modular knots and scalar products of modular forms</b> <br>
+                Representations of the adelic modular group: equidistribution of structure coefficients and periods of automorphic forms <br>
+                Gauss linking forms for lengendrian knots
             </li>
             
             <li><b>Mapping class groups of mapping tori</b>
@@ -314,7 +330,7 @@
             <ul>
             
             <li><b>Etude statistique des éléments du groupe symmétrique</b><br>
-            My <a href="expository/2014-2015_TIPE.pdf">research report</a>of my TIPE for applying to the ENS Lyon.<br>
+            The <a href="expository/2014-2015_TIPE.pdf">research report</a> of my TIPE for applying to the ENS Lyon.<br>
             It concerns the distribution of cycle lengths appearing in the factorisation 
             of random permutations as the order of the symmetric group tends to infinity.<br>
             In retrospect, most of the results follow from Polya's counting theorem, the symbolic method for generating functions, and asymptotic analysis.  
@@ -360,7 +376,7 @@
             </li>
             
             <li><b>Survival Guide to First Order Logic</b><br>
-                 These <a href="expository/2020_Survival_Guide_to_First_Order_Logic_unfinished.pdf">unfinished notes</a>on first order logic
+                 These <a href="expository/2020_Survival_Guide_to_First_Order_Logic_unfinished.pdf">unfinished notes</a> on first order logic
                  were written with, and mostly by, <a href="https://dna.hamilton.ie/tsterin/index.html">Tristan Sterin</a>.
             </li>
                                 
@@ -370,7 +386,7 @@
                  the <a href="https://pi.math.cornell.edu/~hatcher/TN/TNpage.html">book</a> Topology of Numbers by Allen Hatcher,
                  the <a href="https://link.springer.com/book/10.1007/978-1-4612-9950-9">book</a> 
                  A Classical Invitation to Algebraic Numbers and Class Fields by Harvey Cohn,<br>
-                 the <a href="http://www.numdam.org/item/10.24033/bsmf.1329.pdf">article</a>Sur la théorie de la divisibilité by Jean Dieudonné,
+                 the <a href="http://www.numdam.org/item/10.24033/bsmf.1329.pdf">article</a> Sur la théorie de la divisibilité by Jean Dieudonné,
                  and the <a href="https://www.youtube.com/playlist?list=PLoxv42WBtfCBBDXLoytdgIPdQa3hBg_Ux">Salam lectures</a> on Modular forms by Don Zagier.
             </li>
             
@@ -424,11 +440,29 @@
       <div class="accordion-body">
         <strong>Informatic notebooks serving as experimental basis for conjecturing or checking results.</strong><br>
       <ul>
-         <li><b>ChorDiaGraPoloops</b>
+         <li><b>Pin the loop</b> <br>
+           A <a href="experinfo/2024_LooPin">first jupyter notebook (2024)</a> 
+           computing topological intersetion number of a loop in a punctured sphere. <br>
+           A <a href="experinfo/2024_LooPin">second jupyter notebook (2024)</a>
+           computing the pinning poset of a loop in a punctured sphere.
          </li>
-         <li><b>Arithmetic and topology of modular knots</b>
+         <li><b>ChorDiaGraPoloops</b> <br>
+           A <a href="experinfo/2023_CDGP/#">first jupyter notebook (2023)</a> 
+           computing various invariants of chord diagrams and their interlace graphs <br> 
+           to compare various invariants in particular the genus and the spectrum. <br>
+           A <a href="experinfo/2023_CDGP/#">second jupyter notebook (2023)</a> 
+           with a naive implementation of the <i>Cunningham decomposition for graphs</i>. <br>
          </li>
-         <li><b>Loops in the punctured torus and Markov numbers</b>
+         <li><b>Arithmetic and topology of modular knots</b> <br>
+             A <a href="experinfo/2022_ATMK/2022_Herbology.html">first jupyter notebook (2022)</a> containing various experimentations <br>
+             comparing the <i>arithmetic of quadratic extensions and the topology of modular geodesics</i>. <br>
+             A <a href="experinfo/2022_ATMK/2023_Modular_Link-Inter-CrossRatio_Distrib.html">second jupyter notebook (2023)</a> 
+             computing <i>higher Poisson brackets</i> of modular geodesics.
+         </li>
+         <li><b>Loops in the punctured torus and Markov numbers</b> <br>
+           A <a href="experinfo/2021_CourbeSimples/2021_CourbeSimples.html">jupyter notebook (2020)</a> 
+           <!-- and some <a href="">python files</a> -->
+           to <i>decompose a multicurve inside the punctured torus into the basis of simple multicurves </i>.
          </li>
       </ul>
       </div>
