@@ -127,15 +127,22 @@
             </li>
             
             <li><b>Loops in surfaces, chord diagrams, interlace graphs: operad factorisations and generating grammars</b><br>
-               <!-- Journal: <a href="">Electronic Journal of Combinatorics</a>.-->
+               <!-- Journal: <a href=""></a>.-->
                Preprint: <a href="https://arxiv.org/abs/2310.08806">arXiv</a>.
+            </li>
+            
+            <li><b>Pin the Loop: a one-player topologame</b>
+            (with <a href="https://www.beloit.edu/live/profiles/3214-ben-stucky">Ben Stucky</a>)<br>
+               <!-- Journal: <a href=""></a>.-->
+               Preprint: <a href="https://arxiv.org/abs/">arXiv</a>.
+               The accompanying <a href="https://github.com/ChristopherLloyd/LooPin">GitHub repository (2024)</a>.
             </li>
             
             </ul>
             
             </li>
             
-            <li><b>Character varieties of surfaces groups</b>
+            <li><b>Character varieties of surface groups</b>
             
             <ul>
             
@@ -162,7 +169,7 @@
             <li><b>Arithmetic and topology of the modular group </b>
             
             <ul>
-            <li><b>Arithmetic and topology of modular knots</b><br>
+            <li><b>Arithmetic and Topology of modular knots</b><br>
                PhD Thesis, under the direction 
                of <a href="https://perso.ens-lyon.fr/ghys/accueil/">Etienne Ghys</a>
                and <a href="http://math.univ-lille1.fr/~popescu/">Patrick Popescu-Pampu</a>.<br>
@@ -183,17 +190,32 @@
             
             <li><b>Linking numbers of modular knots </b><br>
                This article synthetises and extends the results in chapter 4 and 5 of my thesis. <br>
-               Submitted for publication.
+               Journal: <a href="https://msp.org/soon/coming.php?jpath=gt">Geometry & Topology, to appear</a>.
                Preprint: <a href="https://arxiv.org/abs/2211.05957">arXiv</a>. 
             </li>
             
-            <li><b>Hexponential dynamics and transcendence </b>
-               (with <a href="https://">Scott Schmieding</a>)<br>
-               <!-- This article builds on the work in chapter 3 of my thesis, but goes much further. <br> -->
-               <!-- Submitted for publication. -->
-               Preprint: <a href="https://arxiv.org/abs/">arXiv</a>.
+            </ul>
+            
             </li>
             
+            <li><b>Arithmetics and Dynamics of continued fractions</b>
+            
+            <ul>
+            
+            <li><b>Hexponential dynamics and transcendence </b>
+               (with <a href="https://s-schmieding.github.io/">Scott Schmieding</a>)<br>
+               <!-- This article builds on the work in chapter 3 of my thesis, but goes much further. <br> -->
+               <!-- Submitted for publication. -->
+               Preprint: <a href="https://arxiv.org/abs/2402.17628">arXiv</a>.
+            </li>
+            
+            <!-- 
+            <li><b>Rational equivalence and correlations of Sturmian shifts</b>
+               (with <a href="https://s-schmieding.github.io/">Scott Schmieding</a>)<br>
+               Submitted for publication.
+               Preprint: <a href="https://arxiv.org/abs/">arXiv</a>.
+            </li> 
+            -->
             </ul>
             
             </li>
@@ -440,13 +462,13 @@
       <div class="accordion-body">
         <strong>Informatic notebooks serving as experimental basis for conjecturing or checking results.</strong><br>
       <ul>
-         <li><b>Pin the loop</b> <br>
-           A <a href="experinfo/2024_LooPin">first jupyter notebook (2024)</a> 
-           computing topological intersetion number of a loop in a punctured sphere. <br>
-           A <a href="experinfo/2024_LooPin">second jupyter notebook (2024)</a>
-           computing the pinning poset of a loop in a punctured sphere.
+         <li><b>Pin the loop</b> 
+         (with <a href="https://www.beloit.edu/live/profiles/3214-ben-stucky">Ben Stucky</a>)<br>
+           The <a href="https://github.com/ChristopherLloyd/LooPin">main GitHub repository (2024)</a> 
+           to accompany the article <i>Pin the loop taut : a one-player topologame</i>.
          </li>
-         <li><b>ChorDiaGraPoloops</b> <br>
+         <li><b>ChorDiaGraPoloops</b> 
+         (with <a href="https://github.com/mayankyadavblr">Mayank Yadav</a>)<br>
            A <a href="experinfo/2023_CDGP/#">first jupyter notebook (2023)</a> 
            computing various invariants of chord diagrams and their interlace graphs <br> 
            to compare various invariants in particular the genus and the spectrum. <br>
@@ -459,9 +481,9 @@
              A <a href="experinfo/2022_ATMK/2023_Modular_Link-Inter-CrossRatio_Distrib.html">second jupyter notebook (2023)</a> 
              computing <i>higher Poisson brackets</i> of modular geodesics.
          </li>
-         <li><b>Loops in the punctured torus and Markov numbers</b> <br>
-           A <a href="experinfo/2021_CourbeSimples/2021_CourbeSimples.html">jupyter notebook (2020)</a> 
-           <!-- and some <a href="">python files</a> -->
+         <li><b>Loops in the punctured torus and Markov numbers</b> 
+         (with <a href="https://www-fourier.univ-grenoble-alpes.fr/~schlichs/">Suzanne Schlish</a>)<br>
+           A <a href="experinfo/2021_CourbeSimples/2021_CourbeSimples.html">jupyter notebook (2020)</a>
            to <i>decompose a multicurve inside the punctured torus into the basis of simple multicurves </i>.
          </li>
       </ul>
