@@ -103,7 +103,7 @@
     <div id="publications" class="accordion-collapse collapse" data-bs-parent="#accordionWorks">
       <div class="accordion-body">
         <strong>List of refereed works (mostly articles accepted in a peer-review journal).</strong><br>
-        They are grouped by themes and choronological order. The dates refer to those of the first prepreprint.<br>
+        They are grouped by themes and chronological order. The dates refer to those of the first prepreprint.<br>
         The preprint versions (often on arxiv) may have more appealing layouts.<br>
         The corresponding talks are collected in the following rubrick.
           <ul>
@@ -191,7 +191,7 @@
             
             </li>
             
-            <li><b>Arithmetics and Dynamics of continued fractions</b>
+            <li><b>Arithmetics and Dynamics of Continued Fractions</b>
             
             <ul>
             
@@ -220,8 +220,10 @@
             <li><b>Pin the Loop: a one-player topological game</b>
             (with <a href="https://www.beloit.edu/live/profiles/3214-ben-stucky">Ben Stucky</a>)<br>
                <!-- Journal: <a href=""></a>.-->
-               Preprint: <a href="https://arxiv.org/abs/2405.16216">arXiv</a>.
-               The accompanying <a href="https://github.com/ChristopherLloyd/LooPin">GitHub repository (2024)</a>.
+               Preprint: <a href="https://arxiv.org/abs/2405.16216">arXiv</a>. <br>
+               The accompanying <a href="https://github.com/ChristopherLloyd/LooPin">GitHub repository</a>
+               and the <a href="https://christopherlloyd.github.io/LooPin/">LooPin Atlas</a> 
+               which catalogs multiloops in the sphere and their pinning data.<br>
             </li>
             
             <li><b>Graph parameters and backedge graphs: the complexity of degree-width for digraphs</b> <br> (with 
@@ -332,25 +334,25 @@
 
          <ul>
             <li> <b>Chord diagrams of loops in surfaces</b><br>
-                 Part 1: operad factorisations and generating grammars (submitted) <br>
+                 Part 1: operad factorizations and generating grammars (submitted) <br>
                  Part 2: Hopf algebra and polynomial invariants<br>
                  Part 3: homotopy groupoids and cluster algebras
             </li>
             
             <li> <b> Pin the loop and other topologames </b><br>
-                 A new algorithm for computing intersection of loops in a punctured sphere <br>
                  The group of m-trivial loops in F(n) <br>
-                 Intersection functions on free groups and the lower central series
+                 Intersection functions on free groups and the lower central series <br>
+                 Loop Pin Nim Games
             </li>
             
             <li> <b> Continued fractions, symbolic and arithmetic dynamics </b> <br>
-                 Dynamics and transcendance of the Hexponential map <br>
+                 Dynamics and transcendence of the Hexponential map <br>
                  Isogenies of Denjoy systems and interval exchange transformations
             </li>
             
             <li><b> Linking numbers of modular knots and scalar products of modular forms</b> <br>
                 Representations of the adelic modular group: equidistribution of structure coefficients and periods of automorphic forms <br>
-                Gauss linking forms for lengendrian knots
+                Gauss linking forms for Lengendrian knots
             </li>
             
             <li><b>Mapping class groups of mapping tori</b>
@@ -484,7 +486,7 @@
 <div class="accordion-item">
     <h2 class="accordion-header">
       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#jupytexpython" aria-expanded="false" aria-controls="jupytexpython">
-        <b>Informatical Experiments</b>
+        <b>Informatical Experimentations</b>
       </button>
     </h2>
     <div id="jupytexpython" class="accordion-collapse collapse" data-bs-parent="#accordionWorks">
@@ -493,8 +495,10 @@
       <ul>
          <li><b>Pin the loop</b> 
          (with <a href="https://www.beloit.edu/live/profiles/3214-ben-stucky">Ben Stucky</a>)<br>
-           The <a href="https://github.com/ChristopherLloyd/LooPin">main GitHub repository (2024)</a> 
-           to accompany the article <i>Pin the loop taut : a one-player topologame</i>.
+           The <a href="https://github.com/ChristopherLloyd/LooPin">main GitHub repository</a> 
+           to accompany the article <i>Pin the loop taut : a one-player topological game</i>. <br>
+           The <a href="https://christopherlloyd.github.io/LooPin/">LooPin Atlas</a> is a catalog 
+           of multiloops in the sphere with their pinning data.<br>
          </li>
          <li><b>ChorDiaGraPoloops</b> 
          (with <a href="https://github.com/mayankyadavblr">Mayank Yadav</a>)<br>

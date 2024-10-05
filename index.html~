@@ -85,16 +85,10 @@
 </nav>
 
  <div class="col-md-8">
-	<h3>I am a mathematician.</h3>
+	<h3> I am a mathematician, and this is my professional website. </h3>
+	<h4> From the menu you can access the following items. </h4>
 		<ul>
-          <li><b>Professional Email</b> <i>(untill 2025)</i>: cks6029 [at] psu (dot) edu </li>
-		  <li><b>Personnal Email</b> <i>(untill full)</i>: christopher (dot) lloyd (dot) 31 [at] gmail (dot) com </li>
-		</ul>
-	
-	<h3> Structure of this website.  </h3>
-	From the menu you can access the following items. <br>
-		<ul>
-          <li><b>Presentation :</b> Academic CV, online identities, research interests and projects, organised conference. </li>
+          <li><b>Presentation :</b> Academic CV, online identities, research interests and projects, organized conference. </li>
 		  <li><b>Works:</b> (pre)publications, talk slides, algorithmic experimentations, expository notes, outreach articles.</li>
 		  <li><b>Students:</b> about my past or current students, documents for (prospective) students, teaching activities.</li>
 		  <li><b>Unclassified:</b> (meta)mathematical thoughts, pictures, quotes, interesting or useful links, etc.  </li>
@@ -105,7 +99,7 @@
  <div class="col-md-6">
  	<figure style="float: left; margin: 0 20px 20px 0;">
 		<img src="presentation/2022-06-24-jury-Christopher_croped.JPG" alt="after-thesis-defense" style="width:100%">
-        	<figcaption> Pot de thèse avec 4 membres du jury parmis 6. </figcaption>
+        	<figcaption> Pot de thèse avec 4 membres du jury parmi 6. </figcaption>
             <!-- <br> Louis FUNAR, <b>Anne PICHON, Patrick POPESCU-PAMPU,</b> Christopher-Lloyd SIMON, <b> Etienne GHYS, Françis BONAHON</b>, Jean-Pierre OTAL -->
 		</figure>
 </div>
