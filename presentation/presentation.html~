@@ -86,10 +86,9 @@
           
 		<h3> Curriculum Vitae</h3>
           <ul>
-            <li><b>Currently,</b> i am working as a
-	     	    <a href="https://science.psu.edu/math/people/cks6029"> Chowla Research Assistant Professor</a>  
-	     	     at The Pennsylvania State University.
-	     	     I am open to pro-positions. 
+            <li><b>Currently</b> i am working as a <a href="https://science.psu.edu/math/people/cks6029"> Chowla Research Assistant Professor</a>  
+	     	     at The Pennsylvania State University. <br>
+	     	     This is a PostDoc position, and my contract ends August 2025, so I am open to pro-positions. 
 	     	</li>
 	     	    <li><b>Professional Email</b> <i>(until 2025)</i>: cks6029 [at] psu (dot) edu </li>
 	          <!-- <li><b>Personnal Email</b> <i>(untill full)</i>: christopher (dot) lloyd (dot) 31 [at] gmail (dot) com </li> -->
@@ -109,19 +108,46 @@
           </li>
           </ul>
 
-          <h3> Research interests</h3>
-          <ul>
-            <li><b>Main areas of research :</b> Low dimensional topology, Combinatorics, Geometric group theory, Representation theory, Number Theory, Arithmetic Dynamics.<br> 
+          <h3>Research interests in key words</h3>
+          <ul> 
+			<li>
+			<b>Modular Arithmetic:</b> binary quadratic forms, Gauss composition, Modular forms, Poincaré series, <br> 
+			continued fractions, intersections numbers and linking numbers of modular geodesics.
+			</li>			
+			<li>
+			<b>Geometric Group Theory and Representation Theory:</b> hyperbolic groups, Fuchsian groups, and mapping class groups, <br>
+			their moduli spaces, character varieties, compactification by actions on trees, bounded cohomology.
 			</li>
-			<li><b>Other areas of interests :</b> all the rest, but especially Dynamics, Game theory, and Physics.<br> 
+			<li>
+			<b>Arithmetic and Symbolic Dynamics:</b> Diophantine approximation, continued fractions, interval exchanges, <br>
+			translation surfaces, renormalisation, subshifts of low complexity and S-adic representations.
 			</li>
-			<li><b>Research statements and projects :</b> 
+			<li>
+			<b>Topology of 3-manifolds:</b> Surgery and cobordism distances between 3-manifolds, Gordian space of knots, <br> 
+			linking forms and Blanch field pairings, signatures and characteristic classes.
+			</li>
+			<li>
+			<b>Singularity theory:</b> topological classification of singular curves in surfaces (real or complex, algebraic or analytic), <br>
+			using chord diagrams, linking forms, Witt-rings, cluster algebras.
+			<!-- Combinatorics of harmonic loci in the plane.-->
+			</li>
+			<li>
+			<b>Algebraic and Enumerative Combinatorics :</b> graphs in surfaces, chord diagrams, their polynomial invariants and Hopf algebras. <br>
+			Enumeration using symbolic methods (generating series) followed by analytic methods (singularity analysis).
+			</li>
+			
+
+			<li><b>Other areas of interests :</b> all the rest, especially Dynamics, Game theory, Complexity theory, Persitence homology and Physics.<br> 
+			</li>
+			
+			</ul>
+			<!-- <li><b>Old research statements and projects :</b> 
 			<a href="projectstatements/2021-12-20_Research_Statement.pdf"> 2022 post-doc application</a> ;  
 			<a href="projectstatements/Productions-Scientifiques_2024.pdf"> 2023 list of pre-publications</a>. <br> 
 			</li>
           </ul>
 
-          <!-- <h3> Where our paths may (have) cross(ed)</h3>
+          <h3> Where our paths may (have) cross(ed)</h3>
           <ul>
 
             <li><b>EPIT 2024 - Graphs and Algorithms: Conjectures </b>, <i>2024, May 13—17, Aussois</i>,
