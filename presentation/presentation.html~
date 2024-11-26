@@ -93,7 +93,7 @@
 	     	    <li><b>Professional Email</b> <i>(until 2025)</i>: cks6029 [at] psu (dot) edu </li>
 	          <!-- <li><b>Personnal Email</b> <i>(untill full)</i>: christopher (dot) lloyd (dot) 31 [at] gmail (dot) com </li> -->
 	     	
-        	<li><b><a href="CV_Christopher_Lloyd_SIMON_2024-05-24.pdf">My CV</a></b>, 
+        	<li><b><a href="CV_Christopher_Lloyd_SIMON_2024-10-12.pdf">My CV</a></b>, 
 			describes most of my academic activities.<br> 
 			</li>
 	     	<li><b>A short <a href="https://www.canalacademies.com/emissions/petites-histoires-de-science/mathematiciens-daujourdhui/christopher-lloyd-simon-un-jeune-docteur-de-26-ans-amoureux-des-maths"> interview</a></b> by Etienne Ghys for his podcast series <i>Petites histoires de sciences</i>.
@@ -108,38 +108,30 @@
           </li>
           </ul>
 
-          <h3>Research interests in key words</h3>
-          <ul> 
-			<li>
-			<b>Modular Arithmetic:</b> binary quadratic forms, Gauss composition, Modular forms, Poincaré series, <br> 
-			continued fractions, intersections numbers and linking numbers of modular geodesics.
-			</li>			
-			<li>
-			<b>Geometric Group Theory and Representation Theory:</b> hyperbolic groups, Fuchsian groups, and mapping class groups, <br>
-			their moduli spaces, character varieties, compactification by actions on trees, bounded cohomology.
-			</li>
-			<li>
-			<b>Arithmetic and Symbolic Dynamics:</b> Diophantine approximation, continued fractions, interval exchanges, <br>
-			translation surfaces, renormalisation, subshifts of low complexity and S-adic representations.
-			</li>
-			<li>
-			<b>Topology of 3-manifolds:</b> Surgery and cobordism distances between 3-manifolds, Gordian space of knots, <br> 
-			linking forms and Blanch field pairings, signatures and characteristic classes.
-			</li>
-			<li>
-			<b>Singularity theory:</b> topological classification of singular curves in surfaces (real or complex, algebraic or analytic), <br>
-			using chord diagrams, linking forms, Witt-rings, cluster algebras.
-			<!-- Combinatorics of harmonic loci in the plane.-->
-			</li>
-			<li>
-			<b>Algebraic and Enumerative Combinatorics :</b> graphs in surfaces, chord diagrams, their polynomial invariants and Hopf algebras. <br>
-			Enumeration using symbolic methods (generating series) followed by analytic methods (singularity analysis).
-			</li>
-			
-
-			<li><b>Other areas of interests :</b> all the rest, especially Dynamics, Game theory, Complexity theory, Persitence homology and Physics.<br> 
-			</li>
-			
+      <h3>Research interests in key words</h3>
+      	<ul> 
+				<li> <b>Modular Arithmetic:</b> binary quadratic forms, Gauss composition, Modular forms, Poincaré series, <br> 
+				continued fractions, intersections numbers and linking numbers of modular geodesics.
+				</li>			
+				<li> <b>Geometric Group Theory and Representation Theory:</b> hyperbolic groups, Fuchsian groups, and mapping class groups, <br>
+				their moduli spaces, character varieties, compactification by actions on trees, bounded cohomology.
+				</li>
+				<li> <b>Arithmetic and Symbolic Dynamics:</b> Diophantine approximation, continued fractions, interval exchanges, <br>
+				translation surfaces, renormalisation, subshifts of low complexity and S-adic representations.
+				</li>
+				<li> <b>Topology of 3-manifolds:</b> Surgery and cobordism distances between 3-manifolds, Gordian space of knots, <br> 
+				linking forms and Blanch field pairings, signatures and characteristic classes.
+				</li>
+				<li> <b>Singularity theory:</b> topological classification of singular curves in surfaces (real or complex, algebraic or analytic), <br>
+				using chord diagrams, linking forms, Witt-rings, cluster algebras.
+				<!-- Combinatorics of harmonic loci in the plane.-->
+				</li>
+				<li> <b>Algebraic and Enumerative Combinatorics :</b> graphs in surfaces, chord diagrams, their polynomial invariants and Hopf algebras. <br>
+				Enumeration using symbolic methods (generating series) followed by analytic methods (singularity analysis).
+				</li>
+				
+				<li><b>Other areas of interests :</b> all the rest, especially Dynamics, Game theory, Complexity theory, Persitence homology and Physics.
+				</li>			
 			</ul>
 			<!-- <li><b>Old research statements and projects :</b> 
 			<a href="projectstatements/2021-12-20_Research_Statement.pdf"> 2022 post-doc application</a> ;  
