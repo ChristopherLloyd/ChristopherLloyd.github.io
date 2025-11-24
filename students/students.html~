@@ -86,13 +86,35 @@
  <div class="col-md-8">
 	<h3>Current or past students.</h3>
 		<ul>
+          <li><b>2025-2026:</b> <i>Eric S</i> <!-- <a href="#">(personnal website)</a> </br> --> 
+          is performing a REU with <a href="https://www.beloit.edu/live/profiles/3214-ben-stucky">Ben Stucky</a> 
+          since May 2025<br> 
+          to work on an open question which emerged from our joint work 
+          about <a href="https://arxiv.org/abs/2405.16216">The pinning ideal of a multiloop</a>. <br>
+          This ongoing work will lead to a prepublication: 
+          <a href="https://arxiv.org/abs/2405.16216">The complexity of pinning simple multiloops</a> <br>
+          showing that the problem of pinning simple multiloops is in P for <4 strands but NP-C for >17 strands.
+          </li>
+          
+          <li><b>2024-2025:</b> <i>Ryan Pham</i> <!-- <a href="#">(personnal website)</a> </br> -->
+          performed a REU with <a href="https://www.beloit.edu/live/profiles/3214-ben-stucky">Ben Stucky</a> 
+          from September 2024 and to May 2025<br>          
+          to implement the Shor-Van-Wick algorithm which we use 
+          to compute a boolean formula for the pinning ideal of a loop.<br>
+          In particular this algorithm is now used to enhance the data basis 
+          <a href="https://christopherlloyd.github.io/LooPindex/">his github project</a>
+          and this work was <a href="https://www.beloit.edu/live/news/7240-computer-science-major-presents-advanced-research">advertised here</a>.
+          </li>
+          
           <li><b>2023-2024:</b> <i>Mayank Yadav</i> performed a REU with me from January 2023 to May 2024<br> 
           <!-- <a href="#">(personnal website)</a> </br> -->
-          to investigate chord diagrams of spheriloops and their interlace graphs. <br>
-          In particular his experimantal results are available at 
-          <a href="https://github.com/mayankyadavblr">his github project</a>.
+          to investigate chord diagrams of loops and their interlace graphs. <br>
+          In particular his experimental results are available at 
+          <a href="https://github.com/mayankyadavblr">his github project</a>. <br>
+          This ongoing work will lead to a prepublication about <br>
+          <a href="https://arxiv.org/abs/2310.08806">Vertex complements of graphs: split-decomposition and interlace polynomials</a>.
           </li>
-		  
+          
 		</ul>
 	
  </div>
