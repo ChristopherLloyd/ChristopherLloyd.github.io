@@ -86,14 +86,14 @@
  <div class="col-md-8">
 	<h3>Current or past students.</h3>
 		<ul>
-          <li><b>2025-2026:</b> <i>Eric S</i> <!-- <a href="#">(personnal website)</a> </br> --> 
+          <li><b>2025-2026:</b> <i>Eric Seo</i> <!-- <a href="#">(personnal website)</a> </br> --> 
           is performing a REU with <a href="https://www.beloit.edu/live/profiles/3214-ben-stucky">Ben Stucky</a> 
           since May 2025<br> 
           to work on an open question which emerged from our joint work 
-          about <a href="https://arxiv.org/abs/2405.16216">The pinning ideal of a multiloop</a>. <br>
-          This ongoing work will lead to a prepublication: 
-          <a href="https://arxiv.org/abs/2405.16216">The complexity of pinning simple multiloops</a> <br>
-          showing that the problem of pinning simple multiloops is in P for <4 strands but NP-C for >17 strands.
+          about <a href="https://arxiv.org/abs/2405.16216">The pinning stack of a multiloop</a>. <br>
+          This work lead to a prepublication: 
+          <a href="https://arxiv.org/abs/2602.07344">The complexity of pinning simple multiloops</a> <br>
+          showing that the problem of pinning simple multiloops is in P for <4 strands but NP-C for >25 strands.
           </li>
           
           <li><b>2024-2025:</b> <i>Ryan Pham</i> <!-- <a href="#">(personnal website)</a> </br> -->
@@ -101,8 +101,8 @@
           from September 2024 and to May 2025<br>          
           to implement the Shor-Van-Wick algorithm which we use 
           to compute a boolean formula for the pinning ideal of a loop.<br>
-          In particular this algorithm is now used to enhance the data basis 
-          <a href="https://christopherlloyd.github.io/LooPindex/">his github project</a>
+          In particular this algorithm is now used to enhance the 
+          <a href="https://christopherlloyd.github.io/LooPindex/">LooPindex</a> data basis,
           and this work was <a href="https://www.beloit.edu/live/news/7240-computer-science-major-presents-advanced-research">advertised here</a>.
           </li>
           

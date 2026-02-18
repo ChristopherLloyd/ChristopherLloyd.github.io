@@ -112,7 +112,7 @@
             <ul>
             
             <li><b>On the topology of a real analytic curve in the neighborhood of a singular point</b> 
-               (with <a href="https://perso.ens-lyon.fr/ghys/accueil/">Etienne Ghys</a>)<br>
+               (with <a href="https://perso.ens-lyon.fr/ghys/accueil/">Etienne Ghys</a>).<br>
                Journal:  <a href="https://smf.emath.fr/publications/sur-la-topologie-des-courbes-analytiques-reelles-au-voisinage-des-points-singuliers">
                Astérisque 415, 2020, p. 1-33</a>.
                <!-- HAL <a href="https://hal.science/hal-03273688">link</a>. -->
@@ -127,8 +127,14 @@
             </li>
             
             <li><b>Loops in surfaces, chord diagrams, interlace graphs: operad factorisations and generating grammars</b><br>
-               <!-- Journal: <a href=""></a>.-->
+               Journal: <a href="https://armj.math.stonybrook.edu/">to appear in Arnold Mathmatical Journal</a>.
                Preprint: <a href="https://arxiv.org/abs/2310.08806">arXiv</a>.
+            </li>
+            
+            <li><b>Vertex complements of chord diagrams: split-decomposition and interlace polynomials</b> 
+            	(with <a href="https://github.com/mayankyadavblr">Mayank Yadav</a>).<br>
+               <!-- Journal: <a href="https://armj.math.stonybrook.edu/">to appear in Arnold Mathmatical Journal</a>. -->
+               Preprint: In preparation. <!-- <a href="https://arxiv.org/abs/">arXiv</a>.-->
             </li>
             
             </ul>
@@ -140,7 +146,7 @@
             <ul>
             
             <li><b>Automorphisms of character varieties</b> 
-               (with <a href="https://webusers.imj-prg.fr/~julien.marche/travaux_publis.html">Julien Marché</a>)<br>
+               (with <a href="https://webusers.imj-prg.fr/~julien.marche/travaux_publis.html">Julien Marché</a>).<br>
                Journal <a href="https://ahl.centre-mersenne.org/item/10.5802/ahl.82.pdf">Annales Henri Lebesgue 4 (2021) 591-603</a>
                <!--Numdam <a href="http://www.numdam.org/articles/10.5802/ahl.82/">link.</a>
                HAL <a href="https://hal.science/hal-03273696">link</a>. -->
@@ -148,7 +154,7 @@
             </li>
             
             <li><b>Valuations on the character variety: Newton polytopes and Residual Poisson Bracket</b>  
-               (with <a href="https://webusers.imj-prg.fr/~julien.marche/travaux_publis.html">Julien Marché</a>)<br>
+               (with <a href="https://webusers.imj-prg.fr/~julien.marche/travaux_publis.html">Julien Marché</a>).<br>
                Journal: <a href="https://msp.org/gt/2024/28-2/gt-v28-n2-p03-s.pdf">Geometry & Topology 28:2 (2024)</a>.
                <!-- Numdam: <a href="http://www.numdam.org/articles/10.5802/ahl.82/">link</a>.
                HAL <a href="https://hal.science/hal-04188914>link</a>. -->
@@ -196,14 +202,14 @@
             <ul>
             
             <li><b>Hexponential dynamics and transcendence </b>
-               (with <a href="https://s-schmieding.github.io/">Scott Schmieding</a>)<br>
+               (with <a href="https://s-schmieding.github.io/">Scott Schmieding</a>).<br>
                <!-- This article builds on the work in chapter 3 of my thesis, but goes much further. <br> -->
                <!-- Submitted for publication. -->
                Preprint: <a href="https://arxiv.org/abs/2402.17628">arXiv</a>.
             </li>
              
             <li><b>Isogenies of minimal Cantor systems: from Sturmian to Denjoy and interval exchanges</b>
-               (with <a href="https://s-schmieding.github.io/">Scott Schmieding</a>)<br>
+               (with <a href="https://s-schmieding.github.io/">Scott Schmieding</a>).<br>
                Submitted for publication.
                Preprint: <a href="https://arxiv.org/abs/2503.02168">arXiv</a>.
             </li> 
@@ -216,10 +222,20 @@
             
             <ul>
             
-            <li><b>The pinning ideal of a multiloop</b>
-            (with <a href="https://www.beloit.edu/live/profiles/3214-ben-stucky">Ben Stucky</a>)<br>
+            <li><b>The pinning stack of a multiloop</b>
+            (with <a href="https://www.beloit.edu/live/profiles/3214-ben-stucky">Ben Stucky</a>).<br>
                <!-- Journal: <a href=""></a>.-->
                Preprint: <a href="https://arxiv.org/abs/2405.16216">arXiv</a>.<br>
+               The accompanying <a href="https://github.com/ChristopherLloyd/LooPin">GitHub repository</a>
+               and the <a href="https://christopherlloyd.github.io/LooPin/">LooPin Atlas</a> 
+               which catalogs multiloops in the sphere and their pinning data.<br>
+            </li>
+            
+            <li><b>The complexity of pinning simple multiloops</b>
+            (with <a href="https://www.beloit.edu/live/profiles/3214-ben-stucky">Eric Seo</a>, 
+            <a href="https://www.beloit.edu/live/profiles/3214-ben-stucky">Ben Stucky</a>).<br>
+               <!-- Journal: <a href=""></a>.-->
+               Preprint: <a href="https://arxiv.org/abs/2602.07344">arXiv</a>.<br>
                The accompanying <a href="https://github.com/ChristopherLloyd/LooPin">GitHub repository</a>
                and the <a href="https://christopherlloyd.github.io/LooPin/">LooPin Atlas</a> 
                which catalogs multiloops in the sphere and their pinning data.<br>
@@ -229,8 +245,8 @@
             	<a href="https://www.di.ens.fr/~paboulker/">Pierre Aboulker</a>, 
                <a href="https://nacim-oijid.fr/">Nacim Oijid</a>, 
                <a href="https://www.researchgate.net/profile/Robin-Petit">Robin Petit</a>, 
-               <a href="https://www.ac.tuwien.ac.at/people/mrocton/">Mathis Rocton</a>)<br>
-               <!-- Submitted for publication. -->
+               <a href="https://www.ac.tuwien.ac.at/people/mrocton/">Mathis Rocton</a>).<br>
+               <!-- Journal: <a href=""></a>.-->
                Preprint: <a href="https://arxiv.org/abs/2407.19270">arXiv</a>.
             </li>
 
@@ -243,12 +259,12 @@
             <ul>
             
             <li><b>Hyperbolic simplices of maximal inradius</b> 
-               (with <a href="https://www.imo.universite-paris-saclay.fr/~bruno.duchesne/">Bruno Duchesne</a>)<br>
+               (with <a href="https://www.imo.universite-paris-saclay.fr/~bruno.duchesne/">Bruno Duchesne</a>).<br>
                Preprint: <a href="https://arxiv.org/abs/2512.17096">arXiv</a>.
             </li>
             
             <li><b>The variety of group actions on hyperbolic spaces of infinite dimensions</b> 
-               (with <a href="https://www.imo.universite-paris-saclay.fr/~bruno.duchesne/">Bruno Duchesne</a>)<br>
+               (with <a href="https://www.imo.universite-paris-saclay.fr/~bruno.duchesne/">Bruno Duchesne</a>).<br>
                <!-- Preprint: <a href="https://arxiv.org/abs/">arXiv</a>. -->
                In preparation.
             </li>
@@ -327,6 +343,7 @@
            about <i> Pseudocharacters of the modular group from linking numbers of modular knots</i> for a long talk <br> 
            in the <a href="https://artsci.tamu.edu/mathematics/research/seminars/geometry">joint geometry seminars (GGD & NCG)</a>
            at the Texas AMU. <br>
+           Similar updated <a href="talkslides/2026_modular_group_pseudocharacters_from_linking_long.pdf">slides in English</a> for other talks. <br>
            </li>
            
            <li><b>Playing with Algorithms and Complexity in Combinatorics and Topology.</b><br>
@@ -349,55 +366,12 @@
            Some <a href="talkslides/2025-01-27_BIRS_Markov.pdf">slides in English</a> 
            about <i>Simple geodesics in arithmetic surfaces</i>
            for the <a href="http://www.birs.ca/events/2025/5-day-workshops/25w5411">BIRS 2025 Workshop "Perspectives on Markov Numbers"</a>. <br>
+           Similar updated <a href="talkslides/2026_Transcendence-Simple-Geodesics-Arithmetic-Surfaces_long.pdf">slides in English</a> for other talks.<br>
            </li>
            
          </ul>
       </div>
     </div>
-  </div>
-
-<div class="accordion-item">
-    <h2 class="accordion-header">
-      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#ongoing" aria-expanded="false" aria-controls="ongoing">
-        <b>Ongoing projects </b>
-      </button>
-    </h2>
-    <div id="ongoing" class="accordion-collapse collapse" data-bs-parent="#accordionWorks">
-      <div class="accordion-body">
-        <strong>Some of my works in progress are listed below, and the most mature come along with some preprints.</strong><br>
-        I welcome (m)any discussions about those topics, and you are welcome to contact me to exchange about them.
-
-         <ul>
-            <li> <b>Chord diagrams of loops in surfaces</b><br>
-                 Part 1: operad factorizations and generating grammars (submitted) <br>
-                 Part 2: Hopf algebra and polynomial invariants<br>
-                 Part 3: homotopy groupoids and cluster algebras
-            </li>
-            
-            <li> <b> Pin the loop and other topologames </b><br>
-                 The group of m-trivial loops in F(n) <br>
-                 Intersection functions on free groups and the lower central series <br>
-                 Loop Pin Nim Games
-            </li>
-            
-            <li> <b> Continued fractions, symbolic and arithmetic dynamics </b> <br>
-                 Dynamics and transcendence of the Hexponential map <br>
-                 Isogenies of Denjoy systems and interval exchange transformations
-            </li>
-            
-            <li><b> Linking numbers of modular knots and scalar products of modular forms</b> <br>
-                Representations of the adelic modular group: equidistribution of structure coefficients and periods of automorphic forms <br>
-                Gauss linking forms for Lengendrian knots
-            </li>
-            
-            <li><b>Mapping class groups of mapping tori</b>
-            </li>
-            
-            <li><b>Surgery distances between 3-manifolds</b>
-            </li>
-         </ul>
-         </div>
-     </div>
   </div>
 
 <div class="accordion-item">
@@ -529,14 +503,14 @@
         <strong>Informatic notebooks serving as experimental basis for conjecturing or checking results.</strong><br>
       <ul>
          <li><b>Pin the loop</b> 
-         (with <a href="https://www.beloit.edu/live/profiles/3214-ben-stucky">Ben Stucky</a>)<br>
+         (with <a href="https://www.beloit.edu/live/profiles/3214-ben-stucky">Ben Stucky</a>).<br>
            The <a href="https://github.com/ChristopherLloyd/LooPin">main GitHub repository</a> 
            to accompany the article <i>Pin the loop taut : a one-player topological game</i>. <br>
            The <a href="https://christopherlloyd.github.io/LooPin/">LooPin Atlas</a> is a catalog 
            of multiloops in the sphere with their pinning data.<br>
          </li>
          <li><b>ChorDiaGraPoloops</b> 
-         (with <a href="https://github.com/mayankyadavblr">Mayank Yadav</a>)<br>
+         (with <a href="https://github.com/mayankyadavblr">Mayank Yadav</a>).<br>
            A <a href="experinfo/2023_CDGP/#">first jupyter notebook (2023)</a> 
            computing various invariants of chord diagrams and their interlace graphs <br> 
            to compare various invariants in particular the genus and the spectrum. <br>
@@ -550,7 +524,7 @@
              computing <i>higher Poisson brackets</i> of modular geodesics.
          </li>
          <li><b>Loops in the punctured torus and Markov numbers</b> 
-         (with <a href="https://www-fourier.univ-grenoble-alpes.fr/~schlichs/">Suzanne Schlish</a>)<br>
+         (with <a href="https://www-fourier.univ-grenoble-alpes.fr/~schlichs/">Suzanne Schlich</a>).<br>
            A <a href="experinfo/2021_CourbeSimples/2021_CourbeSimples.html">jupyter notebook (2020)</a>
            to <i>decompose a multicurve inside the punctured torus into the basis of simple multicurves </i>.
          </li>
