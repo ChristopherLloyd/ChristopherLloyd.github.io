@@ -1,3 +1,6 @@
+List of Discriminants : 
+[60, 40, 316, 229, 876, 145, 8088, 1756, 401, 1708, 1384, 4348, 577, 780, 520, 1596, 1768, 19240, 51976]
+
 
 
  Discriminant = 60 	 PrimeFacto=[2, 2; 3, 1; 5, 1]
@@ -5,19 +8,26 @@
  Matrix of Cosigns
 [5, 1]
 [1, 1]
-Char Poly x^2 - 6*x + 4
+Char Poly 
+ x^2 - 6*x + 4
+Symmetric of Signature 
+ [2, 0]
 
  Matrix of Linking
 [6, 3]
 [3, 4]
-Char Poly x^2 - 10*x + 15
-Signature of Linking= [2, 0]
+Char Poly 
+ x^2 - 10*x + 15
+Symmetric of Signature 
+ [2, 0]
 
  Matrix of (half)Intersections
 [7, 5]
 [5, 7]
-Char Poly x^2 - 14*x + 24
-Signature of (half)Intersection= [2, 0]
+Char Poly 
+ x^2 - 14*x + 24
+Symmetric of Signature 
+ [2, 0]
 
 
  Discriminant = 40 	 PrimeFacto=[2, 3; 5, 1]
@@ -25,19 +35,26 @@ Signature of (half)Intersection= [2, 0]
  Matrix of Cosigns
 [0, 0]
 [0, 0]
-Char Poly x^2
+Char Poly 
+ x^2
+Symmetric of Signature 
+ [0, 0]
 
  Matrix of Linking
 [11, 8]
 [8, 13]
-Char Poly x^2 - 24*x + 79
-Signature of Linking= [2, 0]
+Char Poly 
+ x^2 - 24*x + 79
+Symmetric of Signature 
+ [2, 0]
 
  Matrix of (half)Intersections
 [22, 16]
 [16, 26]
-Char Poly x^2 - 48*x + 316
-Signature of (half)Intersection= [2, 0]
+Char Poly 
+ x^2 - 48*x + 316
+Symmetric of Signature 
+ [2, 0]
 
 
  Discriminant = 316 	 PrimeFacto=[2, 2; 79, 1]
@@ -46,21 +63,28 @@ Signature of (half)Intersection= [2, 0]
 [34, 6, -6]
 [6, 4, -4]
 [-6, -4, 4]
-Char Poly x^3 - 42*x^2 + 200*x
+Char Poly 
+ x^3 - 42*x^2 + 200*x
+Symmetric of Signature 
+ [2, 0]
 
  Matrix of Linking
 [38, 16, 10]
 [16, 22, 18]
 [10, 18, 22]
-Char Poly x^3 - 82*x^2 + 1476*x - 4008
-Signature of Linking= [3, 0]
+Char Poly 
+ x^3 - 82*x^2 + 1476*x - 4008
+Symmetric of Signature 
+ [3, 0]
 
  Matrix of (half)Intersections
 [42, 26, 26]
 [26, 40, 40]
 [26, 40, 40]
-Char Poly x^3 - 122*x^2 + 2008*x
-Signature of (half)Intersection= [2, 0]
+Char Poly 
+ x^3 - 122*x^2 + 2008*x
+Symmetric of Signature 
+ [2, 0]
 
 
  Discriminant = 229 	 PrimeFacto=Mat([229, 1])
@@ -69,21 +93,28 @@ Signature of (half)Intersection= [2, 0]
 [0, 0, 0]
 [0, -1, 1]
 [0, 1, -1]
-Char Poly x^3 + 2*x^2
+Char Poly 
+ x^3 + 2*x^2
+Symmetric of Signature 
+ [0, 1]
 
  Matrix of Linking
 [29, 14, 14]
 [14, 23, 24]
 [14, 24, 23]
-Char Poly x^3 - 75*x^2 + 895*x + 971
-Signature of Linking= [2, 1]
+Char Poly 
+ x^3 - 75*x^2 + 895*x + 971
+Symmetric of Signature 
+ [2, 1]
 
  Matrix of (half)Intersections
 [58, 28, 28]
 [28, 47, 47]
 [28, 47, 47]
-Char Poly x^3 - 152*x^2 + 3884*x
-Signature of (half)Intersection= [2, 0]
+Char Poly 
+ x^3 - 152*x^2 + 3884*x
+Symmetric of Signature 
+ [2, 0]
 
 
  Discriminant = 876 	 PrimeFacto=[2, 2; 3, 1; 73, 1]
@@ -93,23 +124,30 @@ Signature of (half)Intersection= [2, 0]
 [1, 2, -2, 2]
 [-25, -2, 34, -2]
 [1, 2, -2, 2]
-Char Poly x^4 - 72*x^3 + 793*x^2 - 1984*x
+Char Poly 
+ x^4 - 72*x^3 + 793*x^2 - 1984*x
+Symmetric of Signature 
+ [3, 0]
 
  Matrix of Linking
 [38, 13, 4, 13]
 [13, 20, 12, 21]
 [4, 12, 38, 12]
 [13, 21, 12, 20]
-Char Poly x^4 - 116*x^3 + 3801*x^2 - 33338*x - 37256
-Signature of Linking= [3, 1]
+Char Poly 
+ x^4 - 116*x^3 + 3801*x^2 - 33338*x - 37256
+Symmetric of Signature 
+ [3, 1]
 
  Matrix of (half)Intersections
 [42, 25, 33, 25]
 [25, 38, 26, 40]
 [33, 26, 42, 26]
 [25, 40, 26, 38]
-Char Poly x^4 - 160*x^3 + 4301*x^2 - 19916*x - 58332
-Signature of (half)Intersection= [3, 1]
+Char Poly 
+ x^4 - 160*x^3 + 4301*x^2 - 19916*x - 58332
+Symmetric of Signature 
+ [3, 1]
 
 
  Discriminant = 145 	 PrimeFacto=[5, 1; 29, 1]
@@ -119,23 +157,30 @@ Signature of (half)Intersection= [3, 1]
 [0, -1, 0, 1]
 [0, 0, 0, 0]
 [0, 1, 0, -1]
-Char Poly x^4 + 2*x^3
+Char Poly 
+ x^4 + 2*x^3
+Symmetric of Signature 
+ [0, 1]
 
  Matrix of Linking
 [31, 24, 24, 24]
 [24, 31, 28, 32]
 [24, 28, 41, 28]
 [24, 32, 28, 31]
-Char Poly x^4 - 134*x^3 + 2376*x^2 - 9946*x - 12457
-Signature of Linking= [3, 1]
+Char Poly 
+ x^4 - 134*x^3 + 2376*x^2 - 9946*x - 12457
+Symmetric of Signature 
+ [3, 1]
 
  Matrix of (half)Intersections
 [62, 48, 48, 48]
 [48, 63, 56, 63]
 [48, 56, 82, 56]
 [48, 63, 56, 63]
-Char Poly x^4 - 270*x^3 + 10044*x^2 - 99656*x
-Signature of (half)Intersection= [3, 0]
+Char Poly 
+ x^4 - 270*x^3 + 10044*x^2 - 99656*x
+Symmetric of Signature 
+ [3, 0]
 
 
  Discriminant = 8088 	 PrimeFacto=[2, 3; 3, 1; 337, 1]
@@ -145,23 +190,30 @@ Signature of (half)Intersection= [3, 0]
 [-12, 8, 12, 9]
 [-93, 12, 79, 12]
 [-12, 9, 12, 8]
-Char Poly x^4 - 264*x^3 + 8077*x^2 - 53736*x - 62078
+Char Poly 
+ x^4 - 264*x^3 + 8077*x^2 - 53736*x - 62078
+Symmetric of Signature 
+ [3, 1]
 
  Matrix of Linking
 [173, 16, 8, 16]
 [16, 49, 36, 51]
 [8, 36, 91, 36]
 [16, 51, 36, 49]
-Char Poly x^4 - 362*x^3 + 38247*x^2 - 1013374*x - 2182648
-Signature of Linking= [3, 1]
+Char Poly 
+ x^4 - 362*x^3 + 38247*x^2 - 1013374*x - 2182648
+Symmetric of Signature 
+ [3, 1]
 
  Matrix of (half)Intersections
 [177, 44, 109, 44]
 [44, 90, 60, 93]
 [109, 60, 103, 60]
 [44, 93, 60, 90]
-Char Poly x^4 - 460*x^3 + 45129*x^2 - 500320*x - 1919622
-Signature of (half)Intersection= [3, 1]
+Char Poly 
+ x^4 - 460*x^3 + 45129*x^2 - 500320*x - 1919622
+Symmetric of Signature 
+ [3, 1]
 
 
  Discriminant = 1756 	 PrimeFacto=[2, 2; 439, 1]
@@ -172,7 +224,10 @@ Signature of (half)Intersection= [3, 1]
 [18, 16, 19, -19, -16]
 [-18, -16, -19, 19, 16]
 [-30, -23, -16, 16, 23]
-Char Poly x^5 - 178*x^4 + 6172*x^3 - 38968*x^2
+Char Poly 
+ x^5 - 178*x^4 + 6172*x^3 - 38968*x^2
+Symmetric of Signature 
+ [3, 0]
 
  Matrix of Linking
 [98, 40, 28, 10, 10]
@@ -180,8 +235,10 @@ Char Poly x^5 - 178*x^4 + 6172*x^3 - 38968*x^2
 [28, 38, 42, 23, 22]
 [10, 22, 23, 42, 38]
 [10, 19, 22, 38, 42]
-Char Poly x^5 - 266*x^4 + 19718*x^3 - 435396*x^2 + 2290681*x - 3103378
-Signature of Linking= [5, 0]
+Char Poly 
+ x^5 - 266*x^4 + 19718*x^3 - 435396*x^2 + 2290681*x - 3103378
+Symmetric of Signature 
+ [5, 0]
 
  Matrix of (half)Intersections
 [102, 50, 38, 38, 50]
@@ -189,8 +246,10 @@ Signature of Linking= [5, 0]
 [38, 60, 65, 65, 60]
 [38, 60, 65, 65, 60]
 [50, 61, 60, 60, 61]
-Char Poly x^5 - 354*x^4 + 19276*x^3 - 58584*x^2
-Signature of (half)Intersection= [3, 0]
+Char Poly 
+ x^5 - 354*x^4 + 19276*x^3 - 58584*x^2
+Symmetric of Signature 
+ [3, 0]
 
 
  Discriminant = 401 	 PrimeFacto=Mat([401, 1])
@@ -201,7 +260,10 @@ Signature of (half)Intersection= [3, 0]
 [0, 0, -1, 1, 0]
 [0, 0, 1, -1, 0]
 [0, 1, 0, 0, -1]
-Char Poly x^5 + 4*x^4 + 4*x^3
+Char Poly 
+ x^5 + 4*x^4 + 4*x^3
+Symmetric of Signature 
+ [0, 2]
 
  Matrix of Linking
 [47, 28, 32, 32, 28]
@@ -209,8 +271,10 @@ Char Poly x^5 + 4*x^4 + 4*x^3
 [32, 34, 39, 40, 34]
 [32, 34, 40, 39, 34]
 [28, 46, 34, 34, 45]
-Char Poly x^5 - 215*x^4 + 6506*x^3 - 40366*x^2 - 101115*x - 54027
-Signature of Linking= [3, 2]
+Char Poly 
+ x^5 - 215*x^4 + 6506*x^3 - 40366*x^2 - 101115*x - 54027
+Symmetric of Signature 
+ [3, 2]
 
  Matrix of (half)Intersections
 [94, 56, 64, 64, 56]
@@ -218,8 +282,10 @@ Signature of Linking= [3, 2]
 [64, 68, 79, 79, 68]
 [64, 68, 79, 79, 68]
 [56, 91, 68, 68, 91]
-Char Poly x^5 - 434*x^4 + 27756*x^3 - 432216*x^2
-Signature of (half)Intersection= [3, 0]
+Char Poly 
+ x^5 - 434*x^4 + 27756*x^3 - 432216*x^2
+Symmetric of Signature 
+ [3, 0]
 
 
  Discriminant = 1708 	 PrimeFacto=[2, 2; 7, 1; 61, 1]
@@ -231,7 +297,10 @@ Signature of (half)Intersection= [3, 0]
 [23, -5, -10, 28, -10, -5]
 [-9, 2, 9, -10, 9, 3]
 [-3, 3, 2, -5, 3, 3]
-Char Poly x^6 - 92*x^5 + 1875*x^4 - 12500*x^3 + 22929*x^2 + 12592*x - 24805
+Char Poly 
+ x^6 - 92*x^5 + 1875*x^4 - 12500*x^3 + 22929*x^2 + 12592*x - 24805
+Symmetric of Signature 
+ [5, 1]
 
  Matrix of Linking
 [44, 9, 8, 27, 8, 9]
@@ -240,8 +309,10 @@ Char Poly x^6 - 92*x^5 + 1875*x^4 - 12500*x^3 + 22929*x^2 + 12592*x - 24805
 [27, 10, 10, 32, 10, 10]
 [8, 16, 21, 10, 20, 16]
 [9, 20, 16, 10, 16, 18]
-Char Poly x^6 - 152*x^5 + 6064*x^4 - 61144*x^3 + 68835*x^2 + 730248*x + 594052
-Signature of Linking= [4, 2]
+Char Poly 
+ x^6 - 152*x^5 + 6064*x^4 - 61144*x^3 + 68835*x^2 + 730248*x + 594052
+Symmetric of Signature 
+ [4, 2]
 
  Matrix of (half)Intersections
 [48, 21, 25, 31, 25, 21]
@@ -250,8 +321,10 @@ Signature of Linking= [4, 2]
 [31, 25, 30, 36, 30, 25]
 [25, 30, 33, 30, 31, 29]
 [21, 37, 30, 25, 29, 33]
-Char Poly x^6 - 212*x^5 + 6539*x^4 - 27080*x^3 - 233259*x^2 + 376392*x + 1031975
-Signature of (half)Intersection= [4, 2]
+Char Poly 
+ x^6 - 212*x^5 + 6539*x^4 - 27080*x^3 - 233259*x^2 + 376392*x + 1031975
+Symmetric of Signature 
+ [4, 2]
 
 
  Discriminant = 1384 	 PrimeFacto=[2, 3; 173, 1]
@@ -263,7 +336,10 @@ Signature of (half)Intersection= [4, 2]
 [0, 0, 0, 0, 0, 0]
 [0, 0, 1, 0, -1, 0]
 [0, 1, 0, 0, 0, -1]
-Char Poly x^6 + 4*x^5 + 4*x^4
+Char Poly 
+ x^6 + 4*x^5 + 4*x^4
+Symmetric of Signature 
+ [0, 2]
 
  Matrix of Linking
 [99, 60, 54, 66, 54, 60]
@@ -272,8 +348,10 @@ Char Poly x^6 + 4*x^5 + 4*x^4
 [66, 68, 66, 77, 66, 68]
 [54, 66, 84, 66, 83, 66]
 [60, 80, 66, 68, 66, 79]
-Char Poly x^6 - 500*x^5 + 37777*x^4 - 852272*x^3 + 4161331*x^2 + 11033092*x + 5981211
-Signature of Linking= [4, 2]
+Char Poly 
+ x^6 - 500*x^5 + 37777*x^4 - 852272*x^3 + 4161331*x^2 + 11033092*x + 5981211
+Symmetric of Signature 
+ [4, 2]
 
  Matrix of (half)Intersections
 [198, 120, 108, 132, 108, 120]
@@ -282,8 +360,10 @@ Signature of Linking= [4, 2]
 [132, 136, 132, 154, 132, 136]
 [108, 132, 167, 132, 167, 132]
 [120, 159, 132, 136, 132, 159]
-Char Poly x^6 - 1004*x^5 + 155120*x^4 - 7434640*x^3 + 95699376*x^2
-Signature of (half)Intersection= [4, 0]
+Char Poly 
+ x^6 - 1004*x^5 + 155120*x^4 - 7434640*x^3 + 95699376*x^2
+Symmetric of Signature 
+ [4, 0]
 
 
  Discriminant = 4348 	 PrimeFacto=[2, 2; 1087, 1]
@@ -296,7 +376,10 @@ Signature of (half)Intersection= [4, 0]
 [-6, -6, 0, -4, 4, 0, 6]
 [6, 6, -3, 0, 0, 3, -6]
 [-54, -43, 6, -6, 6, -6, 43]
-Char Poly x^7 - 254*x^6 + 10388*x^5 - 86632*x^4 + 176352*x^3
+Char Poly 
+ x^7 - 254*x^6 + 10388*x^5 - 86632*x^4 + 176352*x^3
+Symmetric of Signature 
+ [4, 0]
 
  Matrix of Linking
 [158, 64, 22, 22, 16, 28, 10]
@@ -306,8 +389,10 @@ Char Poly x^7 - 254*x^6 + 10388*x^5 - 86632*x^4 + 176352*x^3
 [16, 31, 40, 44, 48, 40, 37]
 [28, 38, 39, 40, 40, 42, 32]
 [10, 19, 38, 31, 37, 32, 62]
-Char Poly x^7 - 462*x^6 + 60310*x^5 - 2452512*x^4 + 36763645*x^3 - 223262778*x^2 + 558899436*x - 456687000
-Signature of Linking= [7, 0]
+Char Poly 
+ x^7 - 462*x^6 + 60310*x^5 - 2452512*x^4 + 36763645*x^3 - 223262778*x^2 + 558899436*x - 456687000
+Symmetric of Signature 
+ [7, 0]
 
  Matrix of (half)Intersections
 [162, 74, 50, 38, 38, 50, 74]
@@ -317,8 +402,10 @@ Signature of Linking= [7, 0]
 [38, 68, 80, 92, 92, 80, 68]
 [50, 70, 81, 80, 80, 81, 70]
 [74, 81, 70, 68, 68, 70, 81]
-Char Poly x^7 - 670*x^6 + 85620*x^5 - 2124936*x^4 + 13337376*x^3
-Signature of (half)Intersection= [4, 0]
+Char Poly 
+ x^7 - 670*x^6 + 85620*x^5 - 2124936*x^4 + 13337376*x^3
+Symmetric of Signature 
+ [4, 0]
 
 
  Discriminant = 577 	 PrimeFacto=Mat([577, 1])
@@ -331,7 +418,10 @@ Signature of (half)Intersection= [4, 0]
 [0, 0, 0, 1, -1, 0, 0]
 [0, 0, 1, 0, 0, -1, 0]
 [0, 1, 0, 0, 0, 0, -1]
-Char Poly x^7 + 6*x^6 + 12*x^5 + 8*x^4
+Char Poly 
+ x^7 + 6*x^6 + 12*x^5 + 8*x^4
+Symmetric of Signature 
+ [0, 3]
 
  Matrix of Linking
 [55, 36, 32, 28, 28, 32, 36]
@@ -341,8 +431,10 @@ Char Poly x^7 + 6*x^6 + 12*x^5 + 8*x^4
 [28, 36, 36, 54, 53, 36, 36]
 [32, 40, 48, 36, 36, 47, 40]
 [36, 44, 40, 36, 36, 40, 43]
-Char Poly x^7 - 341*x^6 + 19629*x^5 - 338689*x^4 + 1000051*x^3 + 5233713*x^2 + 6012319*x + 2137317
-Signature of Linking= [4, 3]
+Char Poly 
+ x^7 - 341*x^6 + 19629*x^5 - 338689*x^4 + 1000051*x^3 + 5233713*x^2 + 6012319*x + 2137317
+Symmetric of Signature 
+ [4, 3]
 
  Matrix of (half)Intersections
 [110, 72, 64, 56, 56, 64, 72]
@@ -352,8 +444,10 @@ Signature of Linking= [4, 3]
 [56, 72, 72, 107, 107, 72, 72]
 [64, 80, 95, 72, 72, 95, 80]
 [72, 87, 80, 72, 72, 80, 87]
-Char Poly x^7 - 688*x^6 + 82632*x^5 - 3197056*x^4 + 34197072*x^3
-Signature of (half)Intersection= [4, 0]
+Char Poly 
+ x^7 - 688*x^6 + 82632*x^5 - 3197056*x^4 + 34197072*x^3
+Symmetric of Signature 
+ [4, 0]
 
 
  Discriminant = 780 	 PrimeFacto=[2, 2; 3, 1; 5, 1; 13, 1]
@@ -363,23 +457,30 @@ Signature of (half)Intersection= [4, 0]
 [-5, 10, 7, -5]
 [-7, 7, 8, -7]
 [11, -5, -7, 11]
-Char Poly x^4 - 54*x^3 + 685*x^2 - 2452*x + 1974
+Char Poly 
+ x^4 - 54*x^3 + 685*x^2 - 2452*x + 1974
+Symmetric of Signature 
+ [4, 0]
 
  Matrix of Linking
 [26, 2, 2, 13]
 [2, 14, 11, 4]
 [2, 11, 12, 4]
 [13, 4, 4, 14]
-Char Poly x^4 - 66*x^3 + 1242*x^2 - 6342*x + 8109
-Signature of Linking= [4, 0]
+Char Poly 
+ x^4 - 66*x^3 + 1242*x^2 - 6342*x + 8109
+Symmetric of Signature 
+ [4, 0]
 
  Matrix of (half)Intersections
 [27, 9, 11, 15]
 [9, 18, 15, 13]
 [11, 15, 16, 15]
 [15, 13, 15, 17]
-Char Poly x^4 - 78*x^3 + 1197*x^2 - 3708*x + 1990
-Signature of (half)Intersection= [4, 0]
+Char Poly 
+ x^4 - 78*x^3 + 1197*x^2 - 3708*x + 1990
+Symmetric of Signature 
+ [4, 0]
 
 
  Discriminant = 520 	 PrimeFacto=[2, 3; 5, 1; 13, 1]
@@ -389,23 +490,30 @@ Signature of (half)Intersection= [4, 0]
 [0, 0, 0, 0]
 [0, 0, 0, 0]
 [0, 0, 0, 0]
-Char Poly x^4
+Char Poly 
+ x^4
+Symmetric of Signature 
+ [0, 0]
 
  Matrix of Linking
 [69, 50, 48, 54]
 [50, 69, 58, 58]
 [48, 58, 75, 60]
 [54, 58, 60, 63]
-Char Poly x^4 - 276*x^3 + 10482*x^2 - 121092*x + 375813
-Signature of Linking= [4, 0]
+Char Poly 
+ x^4 - 276*x^3 + 10482*x^2 - 121092*x + 375813
+Symmetric of Signature 
+ [4, 0]
 
  Matrix of (half)Intersections
 [138, 100, 96, 108]
 [100, 138, 116, 116]
 [96, 116, 150, 120]
 [108, 116, 120, 126]
-Char Poly x^4 - 552*x^3 + 41928*x^2 - 968736*x + 6013008
-Signature of (half)Intersection= [4, 0]
+Char Poly 
+ x^4 - 552*x^3 + 41928*x^2 - 968736*x + 6013008
+Symmetric of Signature 
+ [4, 0]
 
 
  Discriminant = 1596 	 PrimeFacto=[2, 2; 3, 1; 7, 1; 19, 1]
@@ -419,7 +527,10 @@ Signature of (half)Intersection= [4, 0]
 [-7, -7, -2, -7, 9, 14, -2, -7]
 [1, 1, 1, 1, -2, -2, 1, 1]
 [5, 5, 1, 5, -5, -7, 1, 5]
-Char Poly x^8 - 92*x^7 + 2199*x^6 - 18262*x^5 + 59948*x^4 - 78240*x^3 + 33600*x^2
+Char Poly 
+ x^8 - 92*x^7 + 2199*x^6 - 18262*x^5 + 59948*x^4 - 78240*x^3 + 33600*x^2
+Symmetric of Signature 
+ [6, 0]
 
  Matrix of Linking
 [38, 19, 5, 8, 2, 2, 5, 8]
@@ -430,8 +541,10 @@ Char Poly x^8 - 92*x^7 + 2199*x^6 - 18262*x^5 + 59948*x^4 - 78240*x^3 + 33600*x^
 [2, 4, 8, 6, 13, 18, 8, 6]
 [5, 7, 13, 10, 7, 8, 12, 10]
 [8, 10, 10, 13, 6, 6, 10, 12]
-Char Poly x^8 - 140*x^7 + 6146*x^6 - 104578*x^5 + 710426*x^4 - 1552764*x^3 - 1465458*x^2 + 5129834*x + 4221237
-Signature of Linking= [6, 2]
+Char Poly 
+ x^8 - 140*x^7 + 6146*x^6 - 104578*x^5 + 710426*x^4 - 1552764*x^3 - 1465458*x^2 + 5129834*x + 4221237
+Symmetric of Signature 
+ [6, 2]
 
  Matrix of (half)Intersections
 [39, 21, 9, 11, 15, 11, 9, 11]
@@ -442,8 +555,10 @@ Signature of Linking= [6, 2]
 [11, 15, 18, 19, 17, 22, 18, 19]
 [9, 13, 25, 19, 16, 18, 23, 19]
 [11, 15, 19, 21, 17, 19, 19, 19]
-Char Poly x^8 - 188*x^7 + 7491*x^6 - 79654*x^5 + 179112*x^4 + 690672*x^3 - 1729744*x^2 - 1579616*x + 3366656
-Signature of (half)Intersection= [6, 2]
+Char Poly 
+ x^8 - 188*x^7 + 7491*x^6 - 79654*x^5 + 179112*x^4 + 690672*x^3 - 1729744*x^2 - 1579616*x + 3366656
+Symmetric of Signature 
+ [6, 2]
 
 
  Discriminant = 1768 	 PrimeFacto=[2, 3; 13, 1; 17, 1]
@@ -457,7 +572,10 @@ Signature of (half)Intersection= [6, 2]
 [0, 0, 0, 0, 0, 0, 0, 0]
 [0, 0, 1, 0, 0, 0, -1, 0]
 [0, 0, 0, 1, 0, 0, 0, -1]
-Char Poly x^8 + 4*x^7 + 4*x^6
+Char Poly 
+ x^8 + 4*x^7 + 4*x^6
+Symmetric of Signature 
+ [0, 2]
 
  Matrix of Linking
 [83, 44, 32, 24, 20, 16, 32, 24]
@@ -468,8 +586,10 @@ Char Poly x^8 + 4*x^7 + 4*x^6
 [16, 30, 32, 32, 46, 57, 32, 32]
 [32, 38, 42, 34, 32, 32, 41, 34]
 [24, 30, 34, 46, 40, 32, 34, 45]
-Char Poly x^8 - 406*x^7 + 39410*x^6 - 1324430*x^5 + 16107332*x^4 - 35524290*x^3 - 170198530*x^2 - 162533402*x - 45330741
-Signature of Linking= [5, 3]
+Char Poly 
+ x^8 - 406*x^7 + 39410*x^6 - 1324430*x^5 + 16107332*x^4 - 35524290*x^3 - 170198530*x^2 - 162533402*x - 45330741
+Symmetric of Signature 
+ [5, 3]
 
  Matrix of (half)Intersections
 [166, 88, 64, 48, 40, 32, 64, 48]
@@ -480,8 +600,10 @@ Signature of Linking= [5, 3]
 [32, 60, 64, 64, 92, 114, 64, 64]
 [64, 76, 83, 68, 64, 64, 83, 68]
 [48, 60, 68, 91, 80, 64, 68, 91]
-Char Poly x^8 - 816*x^7 + 160900*x^6 - 11235776*x^5 + 302016816*x^4 - 2299901440*x^3 - 2901167424*x^2
-Signature of (half)Intersection= [5, 1]
+Char Poly 
+ x^8 - 816*x^7 + 160900*x^6 - 11235776*x^5 + 302016816*x^4 - 2299901440*x^3 - 2901167424*x^2
+Symmetric of Signature 
+ [5, 1]
 
 
  Discriminant = 19240 	 PrimeFacto=[2, 3; 5, 1; 13, 1; 37, 1]
@@ -503,7 +625,10 @@ Signature of (half)Intersection= [5, 1]
 [20, 14, 0, 0, 28, 34, -14, -16, 48, 39, 0, 0, -28, 32, 14, 16]
 [3, 8, 0, 0, 22, 15, -19, -18, 36, 31, 0, 0, -22, 14, 19, 18]
 [1, 4, 0, 0, 26, 16, -18, -31, 36, 39, 0, 0, -26, 16, 18, 31]
-Char Poly x^16 - 669*x^15 + 134181*x^14 - 10877400*x^13 + 416681804*x^12 - 7950448058*x^11 + 72511592512*x^10 - 244134376428*x^9 - 171698141120*x^8 + 1561539861520*x^7
+Char Poly 
+ x^16 - 669*x^15 + 134181*x^14 - 10877400*x^13 + 416681804*x^12 - 7950448058*x^11 + 72511592512*x^10 - 244134376428*x^9 - 171698141120*x^8 + 1561539861520*x^7
+Symmetric of Signature 
+ [8, 1]
 
  Matrix of Linking
 [159, 87, 41, 38, 68, 50, 36, 37, 52, 52, 38, 38, 31, 50, 39, 38]
@@ -522,8 +647,10 @@ Char Poly x^16 - 669*x^15 + 134181*x^14 - 10877400*x^13 + 416681804*x^12 - 79504
 [50, 52, 53, 48, 60, 69, 42, 40, 75, 70, 46, 46, 32, 67, 56, 56]
 [39, 46, 47, 50, 55, 56, 44, 44, 67, 64, 49, 51, 33, 56, 63, 62]
 [38, 42, 44, 52, 57, 56, 44, 40, 61, 67, 55, 54, 31, 56, 62, 71]
-Char Poly x^16 - 1288*x^15 + 470944*x^14 - 77697976*x^13 + 6792694210*x^12 - 345587897742*x^11 + 10788982316360*x^10 - 211546255324230*x^9 + 2591474955563439*x^8 - 18926080893119416*x^7 + 70315639967116199*x^6 - 33464229715739852*x^5 - 632205787144336914*x^4 + 1672622993240445468*x^3 - 255571989919005779*x^2 - 2806642848736506876*x + 1928221772097792764
-Signature of Linking= [14, 2]
+Char Poly 
+ x^16 - 1288*x^15 + 470944*x^14 - 77697976*x^13 + 6792694210*x^12 - 345587897742*x^11 + 10788982316360*x^10 - 211546255324230*x^9 + 2591474955563439*x^8 - 18926080893119416*x^7 + 70315639967116199*x^6 - 33464229715739852*x^5 - 632205787144336914*x^4 + 1672622993240445468*x^3 - 255571989919005779*x^2 - 2806642848736506876*x + 1928221772097792764
+Symmetric of Signature 
+ [14, 2]
 
  Matrix of (half)Intersections
 [182, 118, 82, 76, 99, 80, 75, 75, 79, 83, 76, 76, 99, 80, 75, 75]
@@ -542,5 +669,41 @@ Signature of Linking= [14, 2]
 [80, 90, 106, 96, 92, 104, 98, 96, 102, 101, 92, 92, 92, 102, 98, 96]
 [75, 84, 94, 100, 88, 97, 107, 106, 98, 97, 98, 102, 88, 98, 107, 106]
 [75, 80, 88, 104, 88, 96, 106, 111, 86, 95, 110, 108, 88, 96, 106, 111]
-Char Poly x^16 - 1907*x^15 + 632579*x^14 - 82562452*x^13 + 5065502752*x^12 - 157824452034*x^11 + 2459621647432*x^10 - 15422220291932*x^9 - 25980096942088*x^8 + 660249989071600*x^7 - 1707855418326176*x^6 - 1269854086085120*x^5 + 6199018966887168*x^4 - 1625782045508096*x^3
-Signature of (half)Intersection= [11, 2]
+Char Poly 
+ x^16 - 1907*x^15 + 632579*x^14 - 82562452*x^13 + 5065502752*x^12 - 157824452034*x^11 + 2459621647432*x^10 - 15422220291932*x^9 - 25980096942088*x^8 + 660249989071600*x^7 - 1707855418326176*x^6 - 1269854086085120*x^5 + 6199018966887168*x^4 - 1625782045508096*x^3
+Symmetric of Signature 
+ [11, 2]
+
+
+ Discriminant = 51976 	 PrimeFacto=[2, 3; 73, 1; 89, 1]
+
+ Matrix of Cosigns
+[559, 0, 0, 0]
+[0, 0, 0, 0]
+[0, 0, 0, 0]
+[0, 0, 0, 0]
+Char Poly 
+ x^4 - 559*x^3
+Symmetric of Signature 
+ [1, 0]
+
+ Matrix of Linking
+[563, 46, 0, 0]
+[46, 77, 0, 0]
+[0, 0, 0, 0]
+[0, 0, 0, 0]
+Char Poly 
+ x^4 - 640*x^3 + 41235*x^2
+Symmetric of Signature 
+ [2, 0]
+
+ Matrix of (half)Intersections
+[567, 92, 0, 0]
+[92, 154, 0, 0]
+[0, 0, 0, 0]
+[0, 0, 0, 0]
+Char Poly 
+ x^4 - 721*x^3 + 78854*x^2
+Symmetric of Signature 
+ [2, 0]
+
