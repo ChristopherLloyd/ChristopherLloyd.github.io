@@ -517,11 +517,23 @@
            A <a href="experinfo/2023_CDGP/#">second jupyter notebook (2023)</a> 
            with a naive implementation of the <i>Cunningham decomposition for graphs</i>. <br>
          </li>
-         <li><b>Arithmetic and topology of modular knots</b> <br>
+         <li><b>Arithmetic and Topology of Modular Knots</b> <br>
              A <a href="experinfo/2022_ATMK/2022_Herbology.html">first jupyter notebook (2022)</a> containing various experimentations <br>
              comparing the <i>arithmetic of quadratic extensions and the topology of modular geodesics</i>. <br>
              A <a href="experinfo/2022_ATMK/2023_Modular_Link-Inter-CrossRatio_Distrib.html">second jupyter notebook (2023)</a> 
-             computing <i>higher Poisson brackets</i> of modular geodesics.
+             computing <i>higher Poisson brackets</i> of modular geodesics. <br>
+             Tables of continued fractions of elements within class groups : 
+             <a href="experinfo/2024_Hexponential/experesults_Class-Groups_contfrac/Class-groups_large_Euclid-continued-fraction-expansion.txt">Euclid</a>,  
+             <a href="experinfo/2024_Hexponential/experesults_Class-Groups_contfrac/Class-groups_Hermite-continued-fraction-expansion.txt">Hermite</a>, 
+             <a href="experinfo/2024_Hexponential/experesults_Class-Groups_contfrac/Class-groups_Smith-continued-fraction-expansion.txt">Smith</a>, 
+             <a href="experinfo/2024_Hexponential/experesults_Class-Groups_contfrac/Class-groups_Sturm-continued-fraction-expansion.txt">Sturm</a> ; <br>
+             and similar tables for class groups containing Markov irrationals :
+             <a href="experinfo/2024_Hexponential/experesults_Class-Groups_contfrac/Class-groups-Markov_Euclid-continued-fraction-expansion-convergents.txt">Convergents</a>, 
+             <a href="experinfo/2024_Hexponential/experesults_Class-Groups_contfrac/Class-groups-Markov_Euclid-continued-fraction-expansion.txt">Euclid</a>, 
+             <a href="experinfo/2024_Hexponential/experesults_Class-Groups_contfrac/Class-groups-Markov_Sturm-continued-fraction-expansion.txt">Sturm</a>. <br>
+             An updated <a href="experinfo/2024_Hexponential/Modular_Link-Inter-CrossRatio_Distrib.ipynb">jupyter notebook (2026)</a>
+             for <a href="experinfo/2024_Hexponential/experesults_Class-Groups_contfrac/Class-Groups_matrices_CoSign-Link-Inter.txt">tables of linking pseudocharacters</a> 
+             on class groups. <br>
          </li>
          <li><b>Loops in the punctured torus and Markov numbers</b> 
          (with <a href="https://www-fourier.univ-grenoble-alpes.fr/~schlichs/">Suzanne Schlich</a>).<br>
