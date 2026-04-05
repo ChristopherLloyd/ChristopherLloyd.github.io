@@ -57,6 +57,7 @@
 <body>
     <div class ="container">
    <h1>Christopher-Lloyd SIMON</h1>
+   
       <nav class="navbar navbar-expand-lg bg-body-tertiary">
 
   <div class="container-fluid">
@@ -67,10 +68,10 @@
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         <li class="nav-item">
-          <a class="nav-link active" href="\#">Presentation</a>
+          <a class="nav-link active" href="#">Presentation</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link active" href="../works/works.html">Works</a>
+          <a class="nav-link" href="../works/works.html">Works</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="../students/students.html">Students</a>
@@ -83,7 +84,8 @@
   </div>
 </nav>
 
-          
+<div class="row">
+    <div class="col-md-9">
 		<h3> Curriculum Vitae</h3>
           <ul>
             <li><b>Current position:</b> from 2025 to 2027, PostDoc at IRMAR Rennes 
@@ -109,30 +111,12 @@
           </li>
           </ul>
 
-      <h3>Research interests in key words</h3>
+      <h3>Research interests in keywords</h3>
       	<ul> 
 				<li> <b>Modular Arithmetic:</b> binary quadratic forms, Gauss composition, Modular forms, Poincaré series, <br> 
 				continued fractions, intersections numbers and linking numbers of modular geodesics.
 				</li>			
-				<li> <b>Geometric Group Theory and Representation Theory:</b> hyperbolic groups, Fuchsian groups, and mapping class groups, <br>
-				their moduli spaces, character varieties, compactification by actions on trees, bounded cohomology.
-				</li>
-				<li> <b>Arithmetic and Symbolic Dynamics:</b> Diophantine approximation, continued fractions, interval exchanges, <br>
-				translation surfaces, renormalisation, subshifts of low complexity and S-adic representations.
-				</li>
-				<li> <b>Topology of 3-manifolds:</b> Surgery and cobordism distances between 3-manifolds, Gordian space of knots, <br> 
-				linking forms and Blanch field pairings, signatures and characteristic classes.
-				</li>
-				<li> <b>Singularity theory:</b> topological classification of singular curves in surfaces (real or complex, algebraic or analytic), <br>
-				using chord diagrams, linking forms, Witt-rings, cluster algebras.
-				<!-- Combinatorics of harmonic loci in the plane.-->
-				</li>
-				<li> <b>Algebraic and Enumerative Combinatorics :</b> graphs in surfaces, chord diagrams, their polynomial invariants and Hopf algebras. <br>
-				Enumeration using symbolic methods (generating series) followed by analytic methods (singularity analysis).
-				</li>
-				
-				<li><b>Other areas of interests :</b> all the rest, especially Dynamics, Game theory, Complexity theory, Persitence homology and Physics.
-				</li>			
+						
 			</ul>
 			<!-- <li><b>Old research statements and projects :</b> 
 			<a href="projectstatements/2021-12-20_Research_Statement.pdf"> 2022 post-doc application</a> ;  
@@ -166,7 +150,8 @@
             </li> -->
    
         </div>
-
+	</div>
+	</div>
   </body>
 
 </html>
