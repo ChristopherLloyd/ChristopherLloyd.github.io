@@ -140,18 +140,21 @@
     </h2>
     <div id="admin" class="accordion-collapse collapse" data-bs-parent="#accordionUnclassified">
       <div class="accordion-body">
-        <strong>Rapports et projets.</strong><br>
+        <strong>Rapports et Projets.</strong><br>
 		<ul> 
-		<li><b>CNRS 2026</b>        
-        Mes <a href="admin/cnrs2026/CNRS_Rapport_2026.pdf">Rapport sur les recherches</a>
-        et <a href="admin/cnrs2026/CNRS_Projet_2026.pdf">Projet de recherches</a>
-        et <a href="admin/cnrs2026/CNRS_Presentation_2026.pdf">Présentation</a>.
+		<li><b>Candidatures 2026</b>        
+        Mes <a href="admin/candidatures/CNRS_Rapport_2026.pdf">Rapport sur les recherches</a>
+        et <a href="admin/candidatures/CNRS_Projet_2026.pdf">Projet de recherches</a>
+        et <a href="admin/candidatures/CNRS_Presentation_2026.pdf">Présentation CNRS</a>
+        et <a href="admin/candidatures/MCF_Presentation_2026.pdf">Présentation MCF</a>.
       </ul>
       </div>
     </div>
   </div>
 
 </div>
+</div>
+
 </body>
 
 </html>
